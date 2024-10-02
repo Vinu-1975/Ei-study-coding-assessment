@@ -1,0 +1,3 @@
+TITLE : IMAGE FORGERY DETECTION AND REGION LEVEL CLASSIFICATION
+
+Our project focuses on highlighting forged regions in an image and categorizing them into various forgery techniques. Additionally, it aims to improve the accuracy of forgery detection in scanned documents and printed media, addressing a significant challenge in the field
